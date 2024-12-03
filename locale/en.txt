@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_55F700FF_4B9A_2506_41C7_691873DF9764.label = T01_1 - Panorama
+panorama_520DB079_4B9A_650A_41D1_E7E27EA658E3.label = T01_2 - Panorama
+panorama_520DDCF9_4B9A_7D0A_41C5_36993AADEB57.label = T01_3 - Panorama
+panorama_520228C3_4B9A_657E_41C7_D0844A5FF5B1.label = T01_4 - Panorama
+panorama_52025532_4B9A_2F1E_41CC_6BFF779AFF2B.label = T01_5 - Panorama
+panorama_5202010A_4B9A_270F_41D1_6A2A6FF872FD.label = T01_6 - Panorama
+
+## Tour
+
+### Description
+
+### Title
+tour.name = كرافان طابقين
